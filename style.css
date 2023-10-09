@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 300px;
+    height: 350px;
+    border: 5px solid grey;
+    background-image: url("https://i.pinimg.com/564x/41/9a/da/419ada45de94360ad4ac0388262f768e.jpg");
+    display: flex;
+    flex-direction: column;
+    
+}
+.row{
+    background-color: white;
+    
+    border-radius: 15px;
+    margin-top: 15px;
+    padding-left: 7px;
+}
+.container-2{
+    display: flex;
+    margin-top: 5px;
+    justify-content: end;
+}
+.row-contestar{
+    background-color: rgba(211, 218, 9, 0.987);
+    width: 200px;
+    border-radius: 15px;
+    
+}
+.row1{
+    width: 83px;
+    padding: 3px;
+
+}
+.row1-5{
+    width: 160px;
+    
+}
+.row2{
+    width: 100px;
+}
+.row3{
+    width: 100px;
+}
+.hora-1{
+    font-size: 10px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.div-centrarhora{
+    display: flex;
+    justify-content: end;
+    margin-right: 10px;
+    
+    /* margin-right: 10px;
+    padding: 10px; */
+}
+.hora-2{
+    
+    font-size: 10px;
+}
+.centrar-hora2{
+    display: flex;
+    
+    justify-content: end;
+}
+.neta{
+   margin-right: 25px;
+}
+.hora-3{
+    margin-top: 25px;
+    margin-right: 4px;
+}
+.centarhora-contestacion{
+    display: flex;
+    justify-content: end;
+}
+.hora-contestacion{
+    margin-right: 6px;
+}
